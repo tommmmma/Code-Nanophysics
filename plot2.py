@@ -8,11 +8,11 @@ for fitting experimental absorbance data, and the visualization of results. usin
 
 
 This code is part of a data analysis for the course "Introduction Nanophysics" at the University of Padua held by Professor G. Mattei.
-Write to tom.simionato@gmail.com for any question of corrections regarding this code.
+Write to tom.simionato@gmail.com for any question or corrections regarding this code.
 
 
 
-University of Padua, Department of Physics and Astronomy,
+University of Padua, Department of Physics and Astronomy
 """
 
 
